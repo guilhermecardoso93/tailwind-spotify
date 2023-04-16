@@ -1,6 +1,6 @@
-import { Aside } from "@/app/components/Aside";
-import { Footer } from "@/app/components/Footer";
-import { Main } from "@/app/components/Main";
+import { Aside } from "@/components/Aside";
+import { Footer } from "@/components/Footer";
+import { Main } from "@/components/Main";
 
 export default function Home() {
   return (
